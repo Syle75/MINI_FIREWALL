@@ -2,13 +2,13 @@ README - Mini pare-feu Python (iptables)
 
 Ce projet est un mini pare-feu personnel développé en Python. Il permet d'interagir avec iptables, l'outil de filtrage réseau sous Linux, afin de :
 
-Bloquer des adresses IP indésirables
+-Bloquer des adresses IP indésirables
 
-Bloquer des ports TCP sensibles
+-Bloquer des ports TCP sensibles
 
-Lister les règles de filtrage en place
+-Lister les règles de filtrage en place
 
-Réinitialiser toutes les règles INPUT
+-Réinitialiser toutes les règles INPUT
 
 Ce script est conçu pour l'apprentissage de la cybersécurité, de l'’administration réseau et des bases de la défense périmétrique.
 
